@@ -1,5 +1,6 @@
 ---
 tags: item
 ---
-- Shift+Right click to start/stop recording
-- When placed down will replay the player's recorded actions à la Dark Souls
+- Shift+right-click to start/stop recording
+- Right-clicking on a block will release the [[Soul]] there
+- Obtained by right-clicking a [[Soul]] with an empty bottle
